@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>venta de celulares</title>
-  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://ventacelurar
+  .com"></script>xx
 </head>
 <body class="bg-gray-100 text-gray-800">
-
   <!-- Header -->
   <header class="bg-blue-600 text-white p-4 shadow-lg">
     <div class="max-w-6xl mx-auto flex justify-between items-center">
