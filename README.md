@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tienda de Celulares</title>
+  <title>venta de celulares</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-800">
@@ -11,7 +11,7 @@
   <!-- Header -->
   <header class="bg-blue-600 text-white p-4 shadow-lg">
     <div class="max-w-6xl mx-auto flex justify-between items-center">
-      <h1 class="text-2xl font-bold">📱 Tu Nombre o Tienda</h1>
+      <h1 class="text-2xl font-bold">📱 venta de celulares</h1>
       <nav class="space-x-6">
         <a href="#catalogo" class="hover:underline">Catálogo</a>
         <a href="#contacto" class="hover:underline">Contacto</a>
